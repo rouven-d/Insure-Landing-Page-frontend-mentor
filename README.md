@@ -24,7 +24,7 @@ Users should be able to:
 
 ## My process
 Built out the website section by section mainly using pure HTML and CSS along with Bootstrap. Used JS and jquery for switching the title image to the top in mobile view.
-There are still a few minor adjustments to be made, code refactoring still outstanding as well. 
+There are still a few minor adjustments to be made, code refactoring still outstanding as well.
 
 ### Built with
 
@@ -38,6 +38,6 @@ There are still a few minor adjustments to be made, code refactoring still outst
 Currently learning web development skills via an online bootcamp. Trying to improve my frontend skills with challenges by Frontend Mentor.
 Check out my social media below.
 
-- Github - [Add your name here](https://github.com/rouven-d)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rouven-d)
+- Github - [@Rouven](https://github.com/rouven-d)
+- Frontend Mentor - [@Rouven](https://www.frontendmentor.io/profile/rouven-d)
 - LinkedIn - [@Rouven Daunke](https://www.linkedin.com/in/rouvendaunke/)
